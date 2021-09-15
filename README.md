@@ -1,4 +1,5 @@
-# Mini-Project
+# Web Chat App using Reactjs and Firebase 
+#### To View Click -> https://connect-691c6.web.app/
 Chatting web Application using React js
 Teleconferencing or Chatting, is a method of using technology to bring people and ideas together despite of the geographical barriers. The technology has been available for years but the acceptance it was quit recent. Our project is an example of realtime chat application.
 
