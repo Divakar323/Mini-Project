@@ -1,0 +1,21 @@
+.homeHeader{
+    padding: 0 10px !important;
+}
+
+
+.smallWidth {
+    display: block !important;
+  }
+  .bigWidth {
+    display: none !important;
+  }
+
+
+@media (min-width: 992px) {
+    .smallWidth {
+        display: none !important;
+      }
+      .bigWidth {
+        display: block !important;
+      }
+  }

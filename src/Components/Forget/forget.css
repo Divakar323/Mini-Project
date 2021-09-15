@@ -1,0 +1,39 @@
+.forget-pass-container {
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    margin: 8vw auto;
+    max-height: 90vh;
+  }
+.flex2{
+  text-align: center;
+} 
+  @media (max-width: 767px) {
+    .forget-pass-img {
+      width: 50% !important;
+    }
+  }
+  
+  .forget-pass-img {
+    width: 100%;
+  }
+  
+  input {
+    width: 100%;
+    padding-left: 35px;
+    height: 40px;
+    border:0;
+    border-bottom: 2px solid #1e496b;
+    outline: none;
+    background: #fff;
+  }
+  input:focus {
+    border-bottom: 2px solid dodgerblue;
+  }
+  input:-webkit-autofill {
+    box-shadow: 0 0 0 30px  #fff inset !important;
+    -webkit-box-shadow: 0 0 0 30px  #fff inset !important;
+  }
